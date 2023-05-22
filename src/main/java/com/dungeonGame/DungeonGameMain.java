@@ -1,5 +1,7 @@
 package com.dungeonGame;
 
+import com.dungeonGame.businessLogic.DungeonGame;
+
 public class DungeonGameMain {
 
     public static void main(String args[]) {

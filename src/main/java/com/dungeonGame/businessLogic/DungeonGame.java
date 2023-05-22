@@ -1,6 +1,6 @@
-package com.dungeonGame;
-class DungeonGame {
-    static int minInitialHealth(int dungeon[][], int rows, int cols) {
+package com.dungeonGame.businessLogic;
+public class DungeonGame {
+    public static int minInitialHealth(int dungeon[][], int rows, int cols) {
 
         int matrix[][] = new int[rows][cols];
         int m = rows, n = cols;
