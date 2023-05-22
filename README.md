@@ -18,4 +18,4 @@ The knight must navigate through the dungeon and reach the princess while keepin
 
 ## Execution
 
-Just clone the project in your local and execute the main file.
+Just clone the project in your local and execute the 'DungeonGameMain' file.
